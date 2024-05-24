@@ -4,7 +4,7 @@ This bash script concatenates the contents of your codebase into a single file, 
 
 ## Usage
 
-1. Save the script to a file, e.g., `workspace.sh`.
+1. Clone the repo and cd in it.
 
 2. Make the script executable by running the following command in your terminal: `chmod +x workspace.sh`
 
